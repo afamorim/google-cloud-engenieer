@@ -1,11 +1,8 @@
 # google-cloud-engenieer
 
-### 1. Setting up a cloud solution environment
-
+###1. Setting up a cloud solution environment
 1.1 Setting up cloud projects and accounts. Activities include:
-
 Creating projects
-
 Assigning users to predefined IAM roles within a project
 Managing users in Cloud Identity (manually and automated)
 Enabling APIs within projects
